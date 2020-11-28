@@ -2,7 +2,7 @@
 ### 練習 Middleware
 
 ## 功能
-* 輸入各個網址可顯示各個訊息，並且在Git Bash顯示 YYYY-MM-DD HH:MM:SS | METHOD from URL
+* 輸入各個網址可顯示各個訊息，並且在Git Bash顯示 YYYY-MM-DD HH:MM:SS | METHOD from URL | total time: $ms
 
 
 ## 使用方法
